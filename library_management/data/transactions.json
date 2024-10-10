@@ -1,0 +1,21 @@
+[
+    {
+      "username": "john_doe",
+      "book_title": "1984",
+      "action": "borrow",
+      "timestamp": "2024-10-08 14:30:00"
+    },
+    {
+      "username": "jane_smith",
+      "book_title": "The Great Gatsby",
+      "action": "borrow",
+      "timestamp": "2024-10-09 09:15:00"
+    },
+    {
+      "username": "john_doe",
+      "book_title": "1984",
+      "action": "return",
+      "timestamp": "2024-10-09 10:00:00"
+    }
+  ]
+  
